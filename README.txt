@@ -1,6 +1,6 @@
 Project Assesment:
 
-Generally the code looks ok, it is formated,controllers method names are camelCase,repositor ypatern is implemented
+Generally the code looks ok, it is formated,controllers method names are camelCase,repository patern is implemented
 which makes controller more clean.
 
 But one the other side i see that:
